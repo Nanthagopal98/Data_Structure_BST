@@ -14,4 +14,7 @@ function.Insert(40);
 function.Insert(22);
 function.Display();
 function.GetSize();
+bool result = function.IfExists(67, function);
+Console.WriteLine(result);
 
+  
